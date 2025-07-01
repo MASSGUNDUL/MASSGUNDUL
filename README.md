@@ -1,51 +1,70 @@
-<h1 align="center">Halo, Aku Nanda Eka 👋</h1>
+<h1 align="center">👋 Halo Dunia, Aku Nanda Eka</h1>
 
 <p align="center">
-  💻 Web Developer | 🛡️ Security Learner | 🔥 17 Tahun & Full Semangat
+  🚀 Web Developer Muda | 🛡️ Cyber Security Enthusiast | 🎓 17 Tahun & Penuh Semangat Belajar
 </p>
 
 ---
 
-## ✨ Tentang Aku
+## 🧑‍💻 Tentang Aku
 
-Hai, aku **Nanda Eka**, umur 17 tahun.  
-Tujuan aku bikin GitHub ini adalah buat **menunjukkan hasil kerja keras dan belajar** selama ini di dunia teknologi.  
-Aku suka ngoding dan juga mulai tertarik di dunia keamanan digital.
+> "Aku percaya kerja keras tidak akan mengkhianati hasil."  
+Halo! Aku **Nanda Eka**, umur 17 tahun.  
+Aku membangun GitHub ini sebagai tempat menyimpan seluruh hasil belajarku — dari coding, project kecil, eksperimen, sampai uji keamanan.
+
+Aku sudah mempelajari berbagai hal mulai dari **HTML, CSS, JavaScript**, sampai ke dunia **ethical hacking** seperti **Metasploit** dan **SQLMap**.
+
+GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimpi besar**. 🚀
 
 ---
 
-## 🧠 Skill yang Sudah Dikuasai
+## 🛠️ Skill & Tools yang Aku Gunakan
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-FF0000?style=for-the-badge&logo=datadog&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=datadog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Proyek dan Eksperimen
+## 📌 Proyek yang Pernah Aku Buat
 
-- 🌐 Website statis & interaktif dengan HTML, CSS, JS
-- 🔐 Uji keamanan situs dengan **Metasploit** & **SQLMap**
-- 📁 Belajar struktur database & serangan SQL Injection
-- 📈 Membangun portofolio sebagai bukti kerja keras
-
----
-
-## 🎯 Tujuan
-
-> “GitHub ini adalah tempat aku menyimpan jejak perjuangan, eksperimen, dan hasil belajar.  
-Biar semua orang tahu: **aku serius belajar dan terus berkembang**.” – Nanda Eka
+- 💻 **Website Portfolio Static** — HTML, CSS, dan sedikit animasi
+- 🧠 **Sistem latihan SQL Injection** untuk belajar keamanan web
+- 📊 **Script Analisis & Dashboard** dengan Chart.js (belajar grafik dinamis)
+- 📱 **Aplikasi Android WebView** untuk sistem web yang responsif
 
 ---
 
-## 📫 Kontak Aku
+## 🎯 Tujuan Jangka Panjang
 
-- 🌍 Portofolio: [nandaeka.github.io](https://nandaeka.github.io)
+- 💼 Jadi Full Stack Developer
+- 🛡️ Mendalami Ethical Hacking & Cyber Security
+- 📂 Membangun proyek open source & portofolio profesional
+- 🌐 Buat website pribadi di `nandaeka.github.io`
+
+---
+
+## 📫 Temui Aku di Sini
+
+- 🌍 Website: [nandaeka.github.io](https://nandaeka.github.io)
 - 📧 Email: **nanda@email.com**
-- 🧠 Belajar bareng? Kirim DM aja!
+- 📷 Instagram: [@nanda.eka17](https://instagram.com/nanda.eka17)
+- 💬 Github Discussions: Open for collaboration and feedback
 
 ---
 
-<p align="center">🔥 Terus belajar. Terus berkembang. 🔥</p>
+<p align="center">
+  Terima kasih sudah mampir! 🌟 Jangan lupa follow untuk lihat perkembangan belajarku 💪
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandaeka&label=Profile+Views" alt="nandaeka" />
+</p>
