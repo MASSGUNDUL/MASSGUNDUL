@@ -64,15 +64,15 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 ## 📊 Statistik GitHub-ku
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandaeka&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MASSGUNDUL&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandaeka&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASSGUNDUL&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaeka&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASSGUNDUL&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
