@@ -1,4 +1,4 @@
-<h1 align="center">👋 Halo Dunia, Aku Nanda Eka</h1>
+<h1 align="center">👋 Halo Semuanya, Aku Nanda Eka</h1>
 
 <p align="center">
   🚀 Web Developer Muda | 🛡️ Cyber Security Enthusiast | 🎓 17 Tahun & Penuh Semangat Belajar
@@ -55,8 +55,8 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 ## 📫 Temui Aku di Sini
 
 - 🌍 Website: [nandaeka.github.io](https://nandaeka.github.io)
-- 📧 Email: **nanda@email.com**
-- 📷 Instagram: [@nanda.eka17](https://instagram.com/nanda.eka17)
+- 📧 Email: nandaekanugraha94@gmail.com
+- 📷 Instagram: [nandaaa_ekaaaaa](https://www.instagram.com/nandaaa_ekaaaaa?igsh=MWdjcGV4dTlyNjNzMQ==)
 - 💬 Github Discussions: Open for collaboration and feedback
 
 ---
@@ -64,15 +64,15 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 ## 📊 Statistik GitHub-ku
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MASSGUNDUL&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandaeka&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASSGUNDUL&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandaeka&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASSGUNDUL&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaeka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
