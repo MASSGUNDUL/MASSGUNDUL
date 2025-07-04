@@ -48,7 +48,6 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 - 💼 Jadi Full Stack Developer
 - 🛡️ Mendalami Ethical Hacking & Cyber Security
 - 📂 Membangun proyek open source & portofolio profesional
-- 🌐 Buat website pribadi di `nandaeka.github.io`
 
 ---
 
