@@ -60,6 +60,9 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 
 ---
 
+
+## Mussic
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 ## 📊 Statistik GitHub-ku
 
 <p align="center">
