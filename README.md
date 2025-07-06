@@ -51,13 +51,7 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 
 ---
 
-## 📫 Temui Aku di Sini
-
-- 🌍 Website: [https://wa.me/qr/PF3OCV44WPWYD1](https://wa.me/qr/PF3OCV44WPWYD1)
-- 📧 Email: nandaekanugraha94@gmail.com
-- 📷 Instagram: [nandaaa_ekaaaaa](https://www.instagram.com/nandaaa_ekaaaaa?igsh=MWdjcGV4dTlyNjNzMQ==)
-- 💬 Github Discussions: Open for collaboration and feedback
-
+## 📫 Temui Aku <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white(https://wa.me/qr/PF3OCV44WPWYD1)" />
 ---
 
 
