@@ -42,14 +42,9 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 
 ## 📫 Temui Aku 
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white(https://wa.me/qr/PF3OCV44WPWYD1)" />
-
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white()" />
-
-
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white()" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,JS)](https://skillicons.dev)
 ---
+
 
 
 ## Mussic
