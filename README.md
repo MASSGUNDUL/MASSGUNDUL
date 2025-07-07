@@ -19,19 +19,8 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 ---
 
 ## 🛠️ Skill & Tools yang Aku Gunakan
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=datadog&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sqlmap)](https://skillicons.dev)
 ---
 
 ## 📌 Proyek yang Pernah Aku Buat
