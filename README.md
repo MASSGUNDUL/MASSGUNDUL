@@ -20,7 +20,7 @@ GitHub ini bukan sekadar akun, tapi **bukti dari kerja keras, semangat, dan mimp
 
 ## 🛠️ Skill & Tools yang Aku Gunakan
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sqlmap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kali)](https://skillicons.dev)
 ---
 
 ## 📌 Proyek yang Pernah Aku Buat
